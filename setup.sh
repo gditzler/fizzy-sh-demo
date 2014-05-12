@@ -1,4 +1,4 @@
-#!/usr/bin/bash 
+#!/usr/bin/env bash 
 
 # clone the repo 
 git clone https://github.com/EESI/Fizzy.git
