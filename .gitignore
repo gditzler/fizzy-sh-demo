@@ -1,4 +1,5 @@
 *.swp
 *.pyc
 Fizzy/
-src/fizzy 
+src/fizzy
+src/output-550.txt
